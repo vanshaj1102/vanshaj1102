@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshaj1102" alt="vanshaj1102" /></a> </p>
 
-- 👯 I’m looking to collaborate on **On Data Science and AI rpojects**
+- 👯 I’m looking to collaborate on **On Data Science and AI projects**
 
 - 📫 How to reach me **vanshaj.satija11@gmail.com**
 
